@@ -14,5 +14,13 @@ This Java-based inventory management system connects to a MariaDB database using
 
 ## DEMO
 
+Adding Head n Shoulders in the Inventory DB
+
 ![image](https://github.com/amaan-igs/java-ims/assets/172314900/34a8ac86-fceb-429d-81c4-2d78d289e86c)
+
+Restarting the program and ensuring that DB stored the value
+
+![image](https://github.com/amaan-igs/java-ims/assets/172314900/f17fec35-d849-4814-9441-85ac430cd62d)
+
+
 
